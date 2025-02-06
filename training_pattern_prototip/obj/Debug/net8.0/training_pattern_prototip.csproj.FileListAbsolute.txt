@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\training_pattern_prototip\bin\Debug\net8.0\training_pattern_prototip.exe
+C:\Users\Admin\source\repos\training_pattern_prototip\bin\Debug\net8.0\training_pattern_prototip.deps.json
+C:\Users\Admin\source\repos\training_pattern_prototip\bin\Debug\net8.0\training_pattern_prototip.runtimeconfig.json
+C:\Users\Admin\source\repos\training_pattern_prototip\bin\Debug\net8.0\training_pattern_prototip.dll
+C:\Users\Admin\source\repos\training_pattern_prototip\bin\Debug\net8.0\training_pattern_prototip.pdb
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.AssemblyInfo.cs
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.dll
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\refint\training_pattern_prototip.dll
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.pdb
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\training_pattern_prototip.genruntimeconfig.cache
+C:\Users\Admin\source\repos\training_pattern_prototip\obj\Debug\net8.0\ref\training_pattern_prototip.dll
